@@ -1,0 +1,17 @@
+DAFTAR PROMPT AI
+TUGAS KOMPUTASI NUMERIK
+
+1. Tolong jelaskan cara menyelesaikan Sistem Persamaan Linear Tiga Variabel (SPLTV) menggunakan metode Eliminasi Gauss.
+
+2. Tolong buatkan algoritma penyelesaian SPLTV menggunakan metode Eliminasi Gauss.
+
+3. Tolong buatkan program Python untuk menyelesaikan SPLTV menggunakan metode Eliminasi Gauss.
+
+4. Tolong jelaskan fungsi setiap bagian kode Python SPLTV secara sederhana dan terperinci.
+
+5. Tolong jelaskan cara menjalankan program Python di Google Colab.
+
+6. Tolong bantu membuat penjelasan program untuk disimpan di GitHub.
+
+Catatan:
+Daftar ini merupakan contoh prompt. Sesuaikan dengan pertanyaan AI yang benar-benar digunakan selama pengerjaan tugas.
