@@ -1,0 +1,75 @@
+
+========================================
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN
+LINEAR TIGA VARIABEL (SPLTV)
+METODE ELIMINASI GAUSS
+========================================
+
+Nama          : Fernando Nunes
+NIM           : 202511420011
+Program Studi : Teknik Informatika
+Mata Kuliah   : Komputasi Numerik
+
+A. TUJUAN
+
+Membuat algoritma untuk menyelesaikan
+Sistem Persamaan Linear Tiga Variabel
+menggunakan metode Eliminasi Gauss.
+
+B. CONTOH PERSAMAAN
+
+2x + y + z = 10
+x + 2y + z = 11
+x + y + 2z = 12
+
+C. LANGKAH-LANGKAH ALGORITMA
+
+1. Mulai program.
+
+2. Masukkan tiga persamaan linear yang
+   memiliki variabel x, y, dan z.
+
+3. Masukkan koefisien persamaan ke dalam
+   matriks A.
+
+4. Masukkan hasil persamaan ke dalam
+   matriks B.
+
+5. Tentukan jumlah variabel yang akan
+   dihitung.
+
+6. Lakukan proses eliminasi Gauss dengan
+   mengubah matriks menjadi bentuk
+   segitiga atas.
+
+7. Hilangkan nilai koefisien di bawah
+   elemen pivot menggunakan operasi
+   baris elementer.
+
+8. Setelah proses eliminasi selesai,
+   lakukan substitusi mundur.
+
+9. Hitung nilai variabel z, kemudian y,
+   dan terakhir x.
+
+10. Tampilkan hasil penyelesaian
+    persamaan linear tiga variabel.
+
+11. Selesai.
+
+D. HASIL YANG DIHARAPKAN
+
+Nilai x = 2
+Nilai y = 3
+Nilai z = 4
+
+E. KESIMPULAN
+
+Metode Eliminasi Gauss dapat digunakan
+untuk menyelesaikan sistem persamaan
+linear tiga variabel dengan mengubah
+matriks menjadi bentuk segitiga atas,
+kemudian dilanjutkan dengan substitusi
+mundur untuk mendapatkan nilai setiap
+variabel.
+========================================
